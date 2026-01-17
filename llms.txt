@@ -1,0 +1,34 @@
+# Heartmade - Paweł Jurewicz
+> Product-Driven Web Design for Founders & Holistic Business Mentoring
+
+## Overview
+Heartmade is a unique consultancy founded by Paweł Jurewicz that bridges the gap between **Product Management**, **AI-Assisted Web Design**, and **Holistic Mentoring**. The core mission is to help founders, freelancers, and specialists launch their first digital businesses by removing technical chaos and internal blocks.
+
+## Core Methodology: "Product-Driven Web Design"
+Unlike traditional web design, Paweł's approach starts with **Product Strategy**:
+- **Discovery & Strategy:** Defining the Unique Value Proposition (UVP) and MVP scope.
+- **Agile & Lean:** Applying 20+ years of IT experience to build scalable, high-conversion products.
+- **AI-Enhanced Velocity:** Building production-ready websites and integrations (calendars, newsletters, payments) in record time (3-hour strategic sessions).
+
+## The "Heartmade" Difference (Holistic Approach)
+Paweł Jurewicz integrates his background as a **Professional Thai Masseur and Bodyworker** into his business practice:
+- **Tension vs. Flow:** He identifies "tension blocks" in business models and user journeys, similar to bodywork, to create seamless "flow" for users and founders.
+- **Mentoring:** Focuses on overcoming Impostor Syndrome, procrastination, and internal resistance.
+- **Expertise:** 20+ years in IT (Product Owner/Manager) combined with 6+ years of holistic bodywork.
+
+## Services & Pricing
+- **Free Discovery:** 15-minute consultation to check "chemistry".
+- **Launch Package (2900 PLN):** 3h strategic session + AI-built website + integrations (Calendar/Newsletter) + 1h post-launch support.
+- **Mentoring+ (500 PLN/mo):** Ongoing long-term support with 2 sessions per month.
+- **Add-ons:** Stripe/PayU payments, ChatGPT SEO optimization, multilingual versions (EN/DE).
+
+## Target Audience
+- Early-stage founders and entrepreneurs.
+- Freelancers moving from execution to strategic partnership.
+- Specialists building personal brands and unique digital offers.
+
+## Contact & Links
+- Website: [heartmade.pl](https://heartmade.pl)
+- LinkedIn: [paweł-jurewicz-b417a4b5](https://www.linkedin.com/in/paweł-jurewicz-b417a4b5/)
+- Email: pawel@heartmade.pl
+- Location: Warsaw, Poland / Remote
