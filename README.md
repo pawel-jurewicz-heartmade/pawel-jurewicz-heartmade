@@ -29,4 +29,4 @@ Traditional web design focuses on aesthetics. My approach focuses on **Product S
 ### ⚡ Fun Fact
 I am a **professional Thai Masseur and Bodyworker**. 🧘‍♂️
 
-Just as in bodywork I look for "tension blocks" and aim for a healthy flow, in **Product Management**, I help founders identify friction points in their business and design solutions that create a seamless flow for their users. I believe that both a human body and a digital product require a **holistic, "heartmade" approach** to thrive.
+Just as in bodywork I look for "tension blocks" and aim for a healthy flow, in **Product Management**, I help founders identify friction points in their business and design solutions that create a seamless flow for their users. I believe that both a human body and a digital product require a **holistic, "heartmade" approach** to thrive. **Website:** [paweljurewicz.com](https://paweljurewicz.com)
