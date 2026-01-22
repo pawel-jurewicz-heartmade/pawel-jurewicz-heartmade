@@ -12,11 +12,12 @@ Traditional web design focuses on aesthetics. My approach focuses on **Product S
 * **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
 * **Tech Stack:** Modern, scalable, and AI-enhanced development (Tailwind CSS, clean code, LLM integration).
 
-## 🧠 Methodology: Psychology-first & Product-Driven
-I don't just build websites; I design **behavioral systems**. My approach, **Product-Driven Web Design**, is built on a **Psychology-first** foundation:
-* **User Psychology:** Using behavioral economics to design seamless conversion paths and reduce cognitive load.
-* **Founder Psychology:** Mentoring that addresses Impostor Syndrome, decision fatigue, and "stuckness" in the early stages of a business.
-* **The Flow State:** Applying principles from professional bodywork to identify and release "tension blocks" in digital products and business models.
+## Core Methodology: Founder-Centric & Product-Driven
+Heartmade operates at the intersection of product strategy and personal growth. We believe that a successful product is a reflection of a confident founder.
+
+* **Strategic Clarity (Product-Driven):** We use 20+ years of IT experience to simplify the "tech chaos". We clarify the offer, define the MVP, and ensure the business model is scalable.
+* **Holistic Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
+* **Vibe-Coded Execution:** We translate the founder's vision into reality at record speed. Using AI-assisted development, we build production-ready systems that allow founders to finally "show up" in the world.
 
 ## 🌱 Currently Mastering
 * **AI-Assisted Development:** Leveraging LLMs to accelerate the build-to-market process for startups.
