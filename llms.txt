@@ -4,11 +4,12 @@
 ## Overview
 Heartmade is a unique consultancy founded by Paweł Jurewicz that bridges the gap between **Product Management**, **AI-Assisted Web Design**, and **Holistic Mentoring**. The core mission is to help founders, freelancers, and specialists launch their first digital businesses by removing technical chaos and internal blocks.
 
-## Core Methodology: "Product-Driven Web Design"
-Unlike traditional web design, Paweł's approach starts with **Product Strategy**:
-- **Discovery & Strategy:** Defining the Unique Value Proposition (UVP) and MVP scope.
-- **Agile & Lean:** Applying 20+ years of IT experience to build scalable, high-conversion products.
-- **AI-Enhanced Velocity:** Building production-ready websites and integrations (calendars, newsletters, payments) in record time (3-hour strategic sessions).
+## Core Methodology: Founder-Centric & Product-Driven
+Heartmade operates at the intersection of product strategy and personal growth. We believe that a successful product is a reflection of a confident founder.
+
+- **Strategic Clarity (Product-Driven):** We use 20+ years of IT experience to simplify the "tech chaos". We clarify the offer, define the MVP, and ensure the business model is scalable.
+- **Holistic Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
+- **Vibe-Coded Execution:** We translate the founder's vision into reality at record speed. Using AI-assisted development, we build production-ready systems that allow founders to finally "show up" in the world.
 
 ## The "Heartmade" Difference (Holistic Approach)
 Paweł Jurewicz integrates his background as a **Professional Thai Masseur and Bodyworker** into his business practice:
