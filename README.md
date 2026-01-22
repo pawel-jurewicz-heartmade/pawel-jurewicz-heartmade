@@ -1,40 +1,42 @@
 # Hi, I'm Paweł Jurewicz 👋 
-### Founder of [Heartmade.pl](https://heartmade.pl/) | Product-Driven Designer | Mentor
-I help founders clarify their offer, build confidence, and show up in the world
+### Product-Driven Designer & Vibe-coder | Mentor
+**I help founders clarify their offer, build confidence, and show up in the world.**
 
-I bridge the gap between **Product Management**, **Strategic Web Design**, and **Business Mentoring**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design for Founders**.
+I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design**.
 
 ---
 
 ## 🔭 What I’m Building: Product-Driven Web Design
 Traditional web design focuses on aesthetics. My approach focuses on **Product Strategy first**:
-* **Discovery & Strategy:** Helping founders define their MVP and North Star Metric.
+* **Discovery & Strategy:** Helping founders define their MVP, UVP, and North Star Metric.
 * **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
-* **Tech Stack:** Modern, scalable, and AI-enhanced development (Tailwind CSS, clean code, LLM integration).
+* **Vibe-Coded Execution:** Translating human intent into production-ready code at record speed using AI, allowing us to focus on *what* we want to say, not *how* to code it.
 
-## Core Methodology: Founder-Centric & Product-Driven
-Heartmade operates at the intersection of product strategy and personal growth. We believe that a successful product is a reflection of a confident founder.
+## 🧠 Methodology: Founder-Centric & Holistic
+Heartmade operates at the intersection of product strategy and personal transformation. We believe a successful product is a reflection of a confident founder.
 
-* **Strategic Clarity (Product-Driven):** We use 20+ years of IT experience to simplify the "tech chaos". We clarify the offer, define the MVP, and ensure the business model is scalable.
-* **Holistic Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
-* **Vibe-Coded Execution:** We translate the founder's vision into reality at record speed. Using AI-assisted development, we build production-ready systems that allow founders to finally "show up" in the world.
+* **Strategic Clarity:** Leveraging 20+ years of IT seniority to simplify "tech chaos" and build scalable business models.
+* **Internal Flow:** Identifying and releasing "tension blocks" — such as perfectionism or Impostor Syndrome — that hold projects back.
+* **Breath & Presence:** Just as in my work with the body, I help founders let in "breath" and space into their business, transforming fear into outward action.
 
 ## 🌱 Currently Mastering
-* **AI-Assisted Development:** Leveraging LLMs to accelerate the build-to-market process for startups.
-* **Strategic Mentoring:** Helping early-stage entrepreneurs navigate the "zero to one" phase.
+* **AI-Assisted Development:** Mastering the art of vibe-coding to accelerate the build-to-market process.
+* **Holistic Mentoring:** Deepening techniques that help entrepreneurs navigate the "zero to one" phase.
 
 ## 🤝 How I Can Help You
 * **Founders:** Turning a vague idea into a validated MVP with a high-end web presence.
-* **Freelancers:** Consulting on how to shift from "execution" to "strategic partnership" with clients.
+* **Freelancers:** Shifting from "execution" to "strategic partnership" with clients.
 * **Specialists:** Building personal brands that resonate with business goals.
 
 ## 📫 Let's Connect
 * **Website:** [heartmade.pl](https://heartmade.pl)
-* **Expertise:** Product Management, UI/UX Design, No-Code/Low-Code, Business Coaching.
+* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching.
 
 ---
 
-### ⚡ Fun Fact
-I am a **professional Thai Masseur and Bodyworker**. 🧘‍♂️
+### ⚡ The Heartmade Difference
+I am a **professional Thai Masseur and Bodyworker** 🧘‍♂️
 
-Just as in bodywork I look for "tension blocks" and aim for a healthy flow, in **Product Management**, I help founders identify friction points in their business and design solutions that create a seamless flow for their users. I believe that both a human body and a digital product require a **holistic, "heartmade" approach** to thrive. **Website:** [paweljurewicz.com](https://paweljurewicz.com)
+In my world, there is no difference between a "stuck" muscle and a "stuck" business project. Both require a holistic approach to release tension and restore flow. I believe that both a human body and a digital product require a **"heartmade" approach** to truly thrive.
+
+**Personal Portfolio:** [paweljurewicz.com](https://paweljurewicz.com)
