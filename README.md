@@ -39,5 +39,5 @@ I am a **professional Thai Masseur, Bodyworker and Podcaster** 🧘‍♂️
 
 In my world, there is no difference between a "stuck" muscle and a "stuck" business project. Both require a holistic approach to release tension and restore flow. I believe that both a human body and a digital product require a **"heartmade" approach** to truly thrive. Speaking your inner truth is our shared mission; only the means differ.
 
-**Personal Portfolio:** [paweljurewicz.com](https://paweljurewicz.com/)
-**Personal history** [www.intercedo.pl](https://www.intercedo.pl/)
+**Holistic Practice:** [paweljurewicz.com](https://paweljurewicz.com/)
+**Professional Legacy:** [intercedo.pl](https://www.intercedo.pl/)
