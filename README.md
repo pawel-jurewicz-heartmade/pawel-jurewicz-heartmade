@@ -1,5 +1,5 @@
 # Hi, I'm Paweł Jurewicz 👋 
-### Product-Driven Designer & AI Assisted Web Developer | Business Mentor
+### Product-Driven Designer & AI Assisted Web Developer | Holistic Business Mentor
 **I help founders clarify their offer, build confidence, and show up in the world.**
 
 I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design**.
