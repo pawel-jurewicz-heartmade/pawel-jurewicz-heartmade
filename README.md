@@ -1,5 +1,5 @@
 # Hi, I'm Paweł Jurewicz 👋 
-### Product-Driven Designer & Vibe-coder | Mentor
+### Product-Driven Designer & AI Assisted Web Developer | Business Mentor
 **I help founders clarify their offer, build confidence, and show up in the world.**
 
 I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design**.
@@ -21,7 +21,7 @@ Heartmade operates at the intersection of product strategy and personal transfor
 
 ## 🌱 Currently Mastering
 * **AI-Assisted Development:** Mastering the art of vibe-coding to accelerate the build-to-market process.
-* **Holistic Mentoring:** Deepening techniques that help entrepreneurs navigate the "zero to one" phase.
+* **Business Mentoring:** Deepening techniques that help entrepreneurs navigate the "zero to one" phase.
 
 ## 🤝 How I Can Help You
 * **Founders:** Turning a vague idea into a validated MVP with a high-end web presence.
@@ -29,14 +29,15 @@ Heartmade operates at the intersection of product strategy and personal transfor
 * **Specialists:** Building personal brands that resonate with business goals.
 
 ## 📫 Let's Connect
-* **Website:** [heartmade.pl](https://heartmade.pl)
-* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching.
+* **Website:** [heartmade.pl](https://heartmade.pl/)
+* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching, AI Web Design, Business Mentoring
 
 ---
 
 ### ⚡ The Heartmade Difference
-I am a **professional Thai Masseur and Bodyworker** 🧘‍♂️
+I am a **professional Thai Masseur, Bodyworker and Podcaster** 🧘‍♂️
 
-In my world, there is no difference between a "stuck" muscle and a "stuck" business project. Both require a holistic approach to release tension and restore flow. I believe that both a human body and a digital product require a **"heartmade" approach** to truly thrive.
+In my world, there is no difference between a "stuck" muscle and a "stuck" business project. Both require a holistic approach to release tension and restore flow. I believe that both a human body and a digital product require a **"heartmade" approach** to truly thrive. Speaking your inner truth is our shared mission; only the means differ.
 
-**Personal Portfolio:** [paweljurewicz.com](https://paweljurewicz.com)
+**Personal Portfolio:** [paweljurewicz.com](https://paweljurewicz.com/)
+**Personal history** [www.intercedo.pl](https://www.intercedo.pl/)

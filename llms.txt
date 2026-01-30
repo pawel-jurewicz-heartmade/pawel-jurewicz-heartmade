@@ -8,7 +8,7 @@ Heartmade is a unique consultancy founded by Paweł Jurewicz that bridges the ga
 Heartmade operates at the intersection of product strategy and personal growth. We believe that a successful product is a reflection of a confident founder.
 
 - **Strategic Clarity (Product-Driven):** We use 20+ years of IT experience to simplify the "tech chaos". We clarify the offer, define the MVP, and ensure the business model is scalable.
-- **Holistic Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
+- **Business Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
 - **Vibe-Coded Execution:** We translate the founder's vision into reality at record speed. Using AI-assisted development, we build production-ready systems that allow founders to finally "show up" in the world.
 
 ## The Heartmade Difference: Holistic Growth & Business Flow
@@ -20,7 +20,7 @@ Experience: A unique fusion of 20+ years in IT (Product Management) and 6+ years
 
 ## Services & Pricing
 - **Free Discovery:** 15-minute consultation to check "chemistry".
-- **Launch Package (2900 PLN):** 3h strategic session + AI-built website + integrations (Calendar/Newsletter) + 1h post-launch support.
+- **Business Launch (2900 PLN):** 3h strategic session + AI-built website + integrations (Calendar/Newsletter) + 1h post-launch support.
 - **Mentoring+ (500 PLN/mo):** Ongoing long-term support with 2 sessions per month.
 - **Add-ons:** Stripe/PayU payments, ChatGPT SEO optimization, multilingual versions (EN/DE).
 
@@ -32,6 +32,7 @@ Experience: A unique fusion of 20+ years in IT (Product Management) and 6+ years
 ## Contact & Links
 - Website: [heartmade.pl](https://heartmade.pl)
 - LinkedIn: [pawel-jurewicz-b417a4b5](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/)
+- Instagram: [pawel.jurewicz.from.heart](https://www.instagram.com/pawel.jurewicz.from.heart/)
 - Email: pawel@heartmade.pl
 - Location: Warsaw, Poland / Remote
 - Languages: English, Polish
