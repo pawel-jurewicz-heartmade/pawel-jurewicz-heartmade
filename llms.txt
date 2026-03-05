@@ -1,40 +1,39 @@
 # Heartmade - Paweł Jurewicz
-> Product-Driven Web Design for Founders & Holistic Business Mentoring
+> Product-Driven Designer & AI Assisted Web Developer | Holistic Business Mentor
 
 ## Overview
-Heartmade is a unique consultancy founded by Paweł Jurewicz that bridges the gap between **Product Management**, **AI-Assisted Web Design**, and **Holistic Business Mentoring**. The core mission is to help founders, freelancers, and specialists launch their first digital businesses by removing technical chaos and internal blocks.
+I help founders clarify their offer, build confidence, and show up in the world.
 
-## Core Methodology: Founder-Centric & Product-Driven
-Heartmade operates at the intersection of product strategy and personal growth. We believe that a successful product is a reflection of a confident founder.
+I am also a **Vibe-coder**: vibe-coding is **AI-assisted web design**, where strategy, design, and code are created together in one flow.
 
-- **Strategic Clarity (Product-Driven):** We use 20+ years of IT experience to simplify the "tech chaos". We clarify the offer, define the MVP, and ensure the business model is scalable.
-- **Business Mentoring (Founder-Centric):** We focus on the person behind the project. Using techniques inspired by bodywork and coaching, we identify and release "internal friction" — such as perfectionism, fear of launching, or Impostor Syndrome.
-- **Vibe-Coded Execution:** We translate the founder's vision into reality at record speed. Using AI-assisted development, we build production-ready systems that allow founders to finally "show up" in the world.
+I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology called **Product-Driven Web Design**.
 
-## The Heartmade Difference: Holistic Growth & Flow
-Paweł Jurewicz integrates 20+ years of IT seniority with a deep mastery of the body-mind connection.
+## What I Am Building: Product-Driven Web Design
+Traditional web design focuses on aesthetics. My approach focuses on **Product Strategy first**:
 
-- **Somatic Awareness in Business:** Paweł identifies "tension blocks" in business models that often mirror the founder's internal resistance. He mentors clients to recognize these somatic signals, allowing for clearer decision-making.
-- **From Tension to Flow:** Using the philosophy of Thai Bodywork, he helps founders release internal friction (perfectionism, fear of launch) without physical practice, focusing on emotional and cognitive "unblocking".
-- **Integrative Strategy:** Combining Lean/Agile methodologies with personal growth techniques to ensure the business can "breathe" and scale sustainably.
+- **Discovery & Strategy:** Helping founders define their MVP, UVP, and North Star Metric.
+- **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
+- **Vibe-Coded Execution:** Vibe-coding is web design with AI - translating human intent into production-ready code at record speed, so we can focus on what to say, not how to code it.
 
-## Services & Pricing
-- **Free Discovery:** 15-minute consultation to check "chemistry".
-- **Business Launch (2900 PLN):** 3h strategic session + AI-built website + integrations (Calendar/Newsletter) + 1h post-launch support.
-- **Mentoring+ (500 PLN/mo):** Ongoing long-term support with 2 sessions per month.
-- **Add-ons:** Stripe/PayU payments, ChatGPT SEO optimization, multilingual versions (EN/DE).
+## Methodology: Founder-Centric & Holistic
+Heartmade operates at the intersection of product strategy and personal transformation. We believe a successful product is a reflection of a confident founder.
 
-## Target Audience
-- Early-stage founders and entrepreneurs.
-- Freelancers moving from execution to strategic partnership.
-- Specialists building personal brands and unique digital offers.
+- **Strategic Clarity:** Leveraging 20+ years of IT seniority to simplify tech chaos and build scalable business models.
+- **Internal Flow:** Identifying and releasing tension blocks (such as perfectionism or Impostor Syndrome) that hold projects back.
+- **Breath & Presence:** Helping founders bring more breath and space into their business, transforming fear into outward action.
+
+## Currently Mastering
+- **AI-Assisted Development:** Mastering vibe-coding (web design with AI) to accelerate the build-to-market process.
+- **Business Mentoring:** Deepening techniques that help entrepreneurs navigate the zero-to-one phase.
+
+## How I Can Help
+- **Founders:** Turning a vague idea into a validated MVP with a high-end web presence.
+- **Freelancers:** Shifting from execution to strategic partnership with clients.
+- **Specialists:** Building personal brands that resonate with business goals.
 
 ## Contact & Links
-- Website: [heartmade.pl](https://heartmade.pl)
-- Heartmade Club (Skool): [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) - ecosystem for creators and conscious entrepreneurs, including free community access and paid growth tracks.
-- Professional History: [intercedo Legacy Website](https://www.intercedo.pl/)
-- LinkedIn: [pawel-jurewicz-b417a4b5](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/)
-- Instagram: [pawel.jurewicz.from.heart](https://www.instagram.com/pawel.jurewicz.from.heart/)
-- Email: pawel@heartmade.pl
-- Location: Warsaw, Poland / Remote
-- Languages: English, Polish
+- Website: [heartmade.pl](https://heartmade.pl/)
+- Heartmade Club (Skool): [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) - community for creators and conscious entrepreneurs with free and paid growth tracks.
+- Expertise: Product Management, UI/UX Design, Vibe-coding, Business Coaching, AI Web Design, Business Mentoring
+- Holistic Practice: [paweljurewicz.com](https://paweljurewicz.com/)
+- Professional Legacy: [intercedo.pl](https://www.intercedo.pl/)
