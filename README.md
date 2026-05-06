@@ -1,10 +1,10 @@
 # Hi, I'm Paweł Jurewicz 👋
 
-## Product-Driven Designer & AI Assisted Web Developer | Holistic Business Mentor
+## Product-Driven Designer & Vibe-coding Web Developer | Holistic Business Mentor
 
 **I help founders clarify their offer, build confidence, and show up in the world.**
 
-I am also a **Vibe-coder**: I treat vibe-coding as **AI-assisted web design** where strategy, design, and code are created together in one flow.
+I am also a **Vibe-coder**: **vibe-coding** is **AI-assisted coding** — for web work, strategy, design, and production code are shaped together in one flow.
 
 I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design**.
 
@@ -16,7 +16,7 @@ Traditional web design focuses on aesthetics. My approach focuses on **Product S
 
 * **Discovery & Strategy:** Helping founders define their MVP, UVP, and North Star Metric.
 * **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
-* **Vibe-Coded Execution:** Vibe-coding is web design with AI - translating human intent into production-ready code at record speed, so we can focus on *what* we want to say, not *how* to code it.
+* **Vibe-Coded Execution:** Vibe-coding (AI-assisted coding) on the web — translating human intent into production-ready code at record speed, so we can focus on *what* we want to say, not *how* to code it.
 
 ## 🧠 Methodology: Founder-Centric & Holistic
 
@@ -28,7 +28,7 @@ Heartmade operates at the intersection of product strategy and personal transfor
 
 ## 🌱 Currently Mastering
 
-* **AI-Assisted Development:** Mastering vibe-coding (web design with AI) to accelerate the build-to-market process.
+* **Vibe-coding:** Mastering vibe-coding as **AI-assisted coding** to accelerate the build-to-market process (especially for founder-led sites and MVPs).
 * **Business Mentoring:** Deepening techniques that help entrepreneurs navigate the "zero to one" phase.
 
 ## 🤝 How I Can Help You
@@ -40,8 +40,9 @@ Heartmade operates at the intersection of product strategy and personal transfor
 ## 📫 Let's Connect
 
 * **Website:** [heartmade.pl](https://heartmade.pl/)
+* **Heartmade Studio (GitHub):** [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters shipped under Heartmade
 * **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) - community for creators and conscious entrepreneurs with free and paid growth tracks.
-* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching, AI Web Design, Business Mentoring
+* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching, Business Mentoring
 
 ---
 
