@@ -1,56 +1,50 @@
 # Hi, I'm Paweł Jurewicz 👋
 
-## Product-Driven Designer & Vibe-coding Web Developer | Holistic Business Mentor
+## One-person studio · Vibe-coding web developer · 20+ years in product
 
-**I help founders clarify their offer, build confidence, and show up in the world.**
+**I turn the work of solo people-practitioners into a working online business — a website with payments and bookings, plus a local AI environment they can run themselves.** Simple, and with heart — *„Prosto i z sercem"*.
 
-I am also a **Vibe-coder**: **vibe-coding** is **AI-assisted coding** — for web work, strategy, design, and production code are shaped together in one flow.
+I'm a **vibe-coder**: vibe-coding is **AI-assisted development** — strategy, design, and production code shaped together in one flow, with AI in the loop.
 
-I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology I call **Product-Driven Web Design**.
-
----
-
-## 🔭 What I’m Building: Product-Driven Web Design
-
-Traditional web design focuses on aesthetics. My approach focuses on **Product Strategy first**:
-
-* **Discovery & Strategy:** Helping founders define their MVP, UVP, and North Star Metric.
-* **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
-* **Vibe-Coded Execution:** Vibe-coding (AI-assisted coding) on the web — translating human intent into production-ready code at record speed, so we can focus on *what* we want to say, not *how* to code it.
-
-## 🧠 Methodology: Founder-Centric & Holistic
-
-Heartmade operates at the intersection of product strategy and personal transformation. We believe a successful product is a reflection of a confident founder.
-
-* **Strategic Clarity:** Leveraging 20+ years of IT seniority to simplify "tech chaos" and build scalable business models.
-* **Internal Flow:** Identifying and releasing "tension blocks" — such as perfectionism or Impostor Syndrome — that hold projects back.
-* **Breath & Presence:** Just as in my work with the body, I help founders let in "breath" and space into their business, transforming fear into outward action.
-
-## 🌱 Currently Mastering
-
-* **Vibe-coding:** Mastering vibe-coding as **AI-assisted coding** to accelerate the build-to-market process (especially for founder-led sites and MVPs).
-* **Business Mentoring:** Deepening techniques that help entrepreneurs navigate the "zero to one" phase.
-
-## 🤝 How I Can Help You
-
-* **Founders:** Turning a vague idea into a validated MVP with a high-end web presence.
-* **Freelancers:** Shifting from "execution" to "strategic partnership" with clients.
-* **Specialists:** Building personal brands that resonate with business goals.
-
-## 📫 Let's Connect
-
-* **Website:** [heartmade.pl](https://heartmade.pl/)
-* **Heartmade Studio (GitHub):** [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters shipped under Heartmade
-* **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) - community for creators and conscious entrepreneurs with free and paid growth tracks.
-* **Expertise:** Product Management, UI/UX Design, Vibe-coding, Business Coaching, Business Mentoring
+**I join two worlds — deep fluency in technology and real work with the human.** Through my own long path of personal growth, I ground the whole technical dimension in the body, the emotions, and respect for the nervous system. On top of that: vibe-coding, UX & product sense, and two decades in product management.
 
 ---
 
-### ⚡ The Heartmade Difference
+## 🔭 What I build
 
-I am a **professional Thai Masseur, Bodyworker and Podcaster** 🧘‍♂️
+Two live products:
 
-In my world, there is no difference between a "stuck" muscle and a "stuck" business project. Both require a holistic approach to release tension and restore flow. I believe that both a human body and a digital product require a **"heartmade" approach** to truly thrive. Speaking your inner truth is our shared mission; only the means differ.
+* **Business Embodiment** *(Ucieleśnienie Biznesu)* — done-for-you. A **Simple Website** (a one-pager from your materials, up to 2h), an **Extended Website** (multi-page, lightweight), or a **Simple Store** (payments, bookings, a simple store). The website is the artifact — not the product.
+* **Heartmade AI Business Center** — I turn your own computer (Mac/Windows) into a real AI assistant: Claude Cowork/Code, configured and wired to your site and GitHub, so you can run and grow the business yourself. Along the way, you learn to work with AI.
 
-* **Holistic Practice:** [paweljurewicz.com](https://paweljurewicz.com/)
-* **Professional Legacy:** [intercedo.pl](https://www.intercedo.pl/)
+No copy or photos ready? A **Materials Workshop** (3h, 1,200 PLN) prepares them — copy, photo selection, the sales path — when you already know your offer but lack the time. Bigger sites add a Materials Workshop+.
+
+## 👥 Who it's for
+
+Solo practitioners of people-work — **therapists, physiotherapists, massage & bodywork practitioners, coaches, movement and breath teachers** — who have real craft and word-of-mouth clients, but are invisible online or stuck on an old website. Also relevant: founder-led businesses drowning in operational chaos.
+
+## 🚫 What I don't do
+
+No marketing, ads, traffic, lead-gen, or sales-results work. I build the **conversion point** — the website where a visitor becomes a client (payments, bookings) — which a marketer then drives traffic to. Pricing is fixed and public; no live negotiation, no promos — a smaller budget means a smaller scope, never a lower price.
+
+## 🌱 Heartmade Studio & MoonQ App
+
+I also build web apps. The first — **MoonQ App** ([moonq.app](https://moonq.app)) — is a messenger-native SaaS: it lives in the chat you already use, no extra app or account. Its open-source blueprint (MIT) lives under **Heartmade Studio**: [github.com/heartmade-studio](https://github.com/heartmade-studio/). Custom web-app builds and discovery are a separate Studio track, beyond the website tiers above.
+
+## 📫 Let's connect
+
+* **Website:** [heartmade.pl](https://heartmade.pl/) · [EN](https://heartmade.pl/en/)
+* **Heartmade Studio (GitHub):** [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters
+* **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) — community with free and paid tracks
+* **Email:** pawel@heartmade.pl
+
+---
+
+### ⚡ The Heartmade difference
+
+I'm also a **professional Thai masseur, bodyworker and podcaster** 🧘‍♂️
+
+In my world there's no difference between a "stuck" muscle and a "stuck" business. Both need a holistic approach to release tension and restore flow. A human body and a digital product alike deserve a **heartmade** approach to truly thrive — I help you let breath and space back into the work.
+
+* **Holistic practice:** [paweljurewicz.com](https://paweljurewicz.com/)
+* **Professional legacy:** [intercedo.pl](https://www.intercedo.pl/)

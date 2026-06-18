@@ -1,40 +1,40 @@
-# Heartmade - Paweł Jurewicz
-> Product-Driven Designer & Vibe-coding Web Developer | Holistic Business Mentor
+# Heartmade — Paweł Jurewicz
+> Jednoosobowe studio · web developer (vibe-coding) · łączę technologię z prawdziwą pracą z człowiekiem. Motto: „Prosto i z sercem".
 
-## Overview
-I help founders clarify their offer, build confidence, and show up in the world.
+## O mnie
+Paweł Jurewicz prowadzi Heartmade — jednoosobowe studio. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Współpraca jest 1:1; strona lub aplikacja to artefakt, nie produkt. Pracuję równie dobrze po polsku i po angielsku. Zdalnie, z Warszawy.
 
-I am also a **Vibe-coder**: **vibe-coding** is **AI-assisted coding** — for web work, strategy, design, and production code are shaped together in one flow.
+Vibe-coding (definicja): tworzenie wspierane AI — budowanie i wdrażanie produktów cyfrowych z AI w pętli.
 
-I bridge the gap between **Product Management**, **Strategic Design**, and **Holistic Growth**. My mission is to empower founders, freelancers, and specialists to build their first digital businesses through a methodology called **Product-Driven Web Design**.
+Wyróżnik (jedna osoba, połączenie dwóch światów): łączę biegłość technologiczną z prawdziwą pracą z człowiekiem. Od 20 lat poruszam się w technologii, a jednocześnie — dzięki własnemu, długiemu procesowi rozwoju osobistego — osadzam cały wymiar technologiczny w przestrzeni ciała, emocji i szacunku dla układu nerwowego. Do tego dochodzi vibe-coding, zmysł produktowy i UX oraz 20 lat doświadczenia w product managemencie.
 
-## What I Am Building: Product-Driven Web Design
-Traditional web design focuses on aesthetics. My approach focuses on **Product Strategy first**:
+## Dla kogo to jest
+Solowi praktycy pracy z ludźmi — terapeuci, fizjoterapeuci, masażyści i osoby pracujące z ciałem, coachowie, nauczyciele ruchu i oddechu. Mają realny warsztat i klientów z polecenia, ale są niewidoczni w sieci albo tkwią na starej stronie. Dodatkowo (obszar przyległy, nie rdzeń): firmy prowadzone przez właściciela, tonące w operacyjnym chaosie.
 
-- **Discovery & Strategy:** Helping founders define their MVP, UVP, and North Star Metric.
-- **Conversion-focused UI/UX:** Designing websites that function as business tools, not just digital brochures.
-- **Vibe-Coded Execution:** Vibe-coding (AI-assisted coding) on the web — translating human intent into production-ready code at record speed, so we can focus on what to say, not how to code it.
+## Czego Heartmade NIE robi
+Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprzedażowy". Buduję punkt konwersji — miejsce, w którym odwiedzający staje się klientem (strona, płatności, rezerwacje) — do którego marketingowiec dopiero prowadzi ruch. Ceny są stałe i jawne; bez negocjacji na żywo i bez promocji (mniejszy budżet = mniejszy zakres, nigdy niższa cena). Bez darmowych rozmów sprzedażowych — ścieżka jest samoobsługowa.
 
-## Methodology: Founder-Centric & Holistic
-Heartmade operates at the intersection of product strategy and personal transformation. We believe a successful product is a reflection of a confident founder.
+## Oferta (dwa żywe produkty; ceny w PLN, stałe i jawne; tytuły usług po angielsku, opisy po polsku)
+1. Business Embodiment (robię to za Ciebie)
+   - Simple Website (prosta strona / landing) -> 1 000 zł (przynosisz komplet materiałów; do 2h)
+   - Extended Website (rozbudowana strona, lekka, odpowiednik WordPressa bez CMS-a i wtyczek) -> 3 000 zł (~2–3 dni)
+   - Simple Store (płatności, rezerwacje, prosty sklep, integracje) -> 6 000 zł+ (~tydzień)
+   - Materials Workshop -> 1 200 zł / 3h (przygotowanie materiałów — teksty, zdjęcia, ścieżka sprzedaży — gdy znasz ofertę i odbiorcę, ale brak czasu/materiałów; Materials Workshop+ 2 400/3 600 do Extended Website / Simple Store)
+   - Aplikacje www i discovery -> w Heartmade Studio (osobna ścieżka, poza tym cennikiem)
+2. Heartmade AI Business Center (podtytuł: „AI-Powered Business Center")
+   - Jednorazowe postawienie -> 3 000 zł / 4×2h. Lokalne środowisko AI (skonfigurowane Claude Cowork/Code, podpięte pod Twoją stronę i GitHub) do prowadzenia i rozwoju firmy; uczysz się z nim pracować.
+3. Stała współpraca („co dalej")
+   - W budowie — nie ma jeszcze stałej oferty ani ceny; powstaje z krótkiego kwestionariusza.
 
-- **Strategic Clarity:** Leveraging 20+ years of IT seniority to simplify tech chaos and build scalable business models.
-- **Internal Flow:** Identifying and releasing tension blocks (such as perfectionism or Impostor Syndrome) that hold projects back.
-- **Breath & Presence:** Helping founders bring more breath and space into their business, transforming fear into outward action.
+## Produkty i zasoby
+- MoonQ App -> https://moonq.app — pierwsza aplikacja messenger-native SaaS; otwarty blueprint (MIT): https://github.com/heartmade-studio/messenger-native-saas
+- Heartmade Studio -> https://github.com/heartmade-studio/ — aplikacje i startery tworzone w vibe-codingu
+- Heartmade Club -> społeczność na Skool (ścieżki darmowe i płatne)
 
-## Currently Mastering
-- **Vibe-coding:** Mastering vibe-coding as **AI-assisted coding** to accelerate the build-to-market process (especially for founder-led sites and MVPs).
-- **Business Mentoring:** Deepening techniques that help entrepreneurs navigate the zero-to-one phase.
-
-## How I Can Help
-- **Founders:** Turning a vague idea into a validated MVP with a high-end web presence.
-- **Freelancers:** Shifting from execution to strategic partnership with clients.
-- **Specialists:** Building personal brands that resonate with business goals.
-
-## Contact & Links
-- Website: [heartmade.pl](https://heartmade.pl/)
-- Heartmade Studio (GitHub): [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters shipped under Heartmade
-- Heartmade Club (Skool): [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) - community for creators and conscious entrepreneurs with free and paid growth tracks.
-- Expertise: Product Management, UI/UX Design, Vibe-coding, Business Coaching, Business Mentoring
-- Holistic Practice: [paweljurewicz.com](https://paweljurewicz.com/)
-- Professional Legacy: [intercedo.pl](https://www.intercedo.pl/)
+## Linki
+- Strona: https://heartmade.pl · EN: https://heartmade.pl/en/
+- E-mail: pawel@heartmade.pl
+- Intercedo (dawna marka): https://www.intercedo.pl/
+- Skool: https://www.skool.com/heartmade-club-8724/about
+- GitHub (studio): https://github.com/heartmade-studio/
+- Strona osobista: https://paweljurewicz.com/
