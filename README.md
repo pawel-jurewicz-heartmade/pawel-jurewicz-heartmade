@@ -12,12 +12,13 @@ I'm a **vibe-coder**: vibe-coding is **AI-assisted development** — strategy, d
 
 ## 🔭 What I build
 
-Two live products:
-
 * **Business Embodiment** *(Ucieleśnienie Biznesu)* — done-for-you. A **Simple Website** (a one-pager from your materials, up to 2h), an **Extended Website** (multi-page, lightweight), or a **Simple Store** (payments, bookings, a simple store). The website is the artifact — not the product.
+* **HeartPress — the "Webmaster AI" assistant** 🚀 — a breakthrough service and a modern, conversational take on the CMS (the name is a nod to WordPress). Every Heartmade client can edit their website in nearly any scope — texts, photos, new subpages, landing pages — by chatting in plain language on **Telegram (or WhatsApp)**. Nothing goes live without the client's approval, and every change is reversible. 129 PLN/month, no setup fee.
 * **Heartmade AI Business Center** — I turn your own computer (Mac/Windows) into a real AI assistant: Claude Cowork/Code, configured and wired to your site and GitHub, so you can run and grow the business yourself. Along the way, you learn to work with AI.
 
 No copy or photos ready? A **Materials Workshop** (3h, 1,200 PLN) prepares them — copy, photo selection, the sales path — when you already know your offer but lack the time. Bigger sites add a Materials Workshop+.
+
+**For web creators (B2B):** I also teach and sell the HeartPress model to other website creators — especially WordPress developers — as the **HeartPress training**: build sites with AI and offer your clients change management via a "Webmaster AI" assistant, charged as a monthly subscription. Details: [heartmade.pl/heartpress](https://heartmade.pl/heartpress).
 
 ## 👥 Who it's for
 

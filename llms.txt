@@ -14,16 +14,20 @@ Solowi praktycy pracy z ludźmi — terapeuci, fizjoterapeuci, masażyści i oso
 ## Czego Heartmade NIE robi
 Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprzedażowy". Buduję punkt konwersji — miejsce, w którym odwiedzający staje się klientem (strona, płatności, rezerwacje) — do którego marketingowiec dopiero prowadzi ruch. Ceny są stałe i jawne; bez negocjacji na żywo i bez promocji (mniejszy budżet = mniejszy zakres, nigdy niższa cena). Bez darmowych rozmów sprzedażowych — ścieżka jest samoobsługowa.
 
-## Oferta (dwa żywe produkty; ceny w PLN, stałe i jawne; tytuły usług po angielsku, opisy po polsku)
+## Oferta (ceny w PLN, stałe i jawne; tytuły usług po angielsku, opisy po polsku)
 1. Business Embodiment (robię to za Ciebie)
    - Simple Website (prosta strona / landing) -> 1 000 zł (przynosisz komplet materiałów; do 2h)
    - Extended Website (rozbudowana strona, lekka, odpowiednik WordPressa bez CMS-a i wtyczek) -> 3 000 zł (~2–3 dni)
-   - Simple Store (płatności, rezerwacje, prosty sklep, integracje) -> 6 000 zł+ (~tydzień)
+   - Simple Store (płatności, rezerwacje, prosty sklep, integracje) -> od 4 500 zł (~tydzień)
    - Materials Workshop -> 1 200 zł / 3h (przygotowanie materiałów — teksty, zdjęcia, ścieżka sprzedaży — gdy znasz ofertę i odbiorcę, ale brak czasu/materiałów; Materials Workshop+ 2 400/3 600 do Extended Website / Simple Store)
    - Aplikacje www i discovery -> w Heartmade Studio (osobna ścieżka, poza tym cennikiem)
-2. Heartmade AI Business Center (podtytuł: „AI-Powered Business Center")
+2. Asystent „Webmaster AI" (edycja strony rozmową; model: HeartPress) -> 129 zł/mies., bez opłaty startowej
+   - Klient edytuje swoją stronę w niemal dowolnym zakresie, pisząc zwykłym językiem na Telegramie lub WhatsAppie: zmiany tekstów, zdjęcia, nowe podstrony, landing page nowych ofert. Nic nie trafia na stronę bez zgody klienta; każda zmiana jest odwracalna. W cenie normalne, comiesięczne korzystanie. Nowoczesna forma CMS (HeartPress = nawiązanie do WordPressa).
+3. Heartmade AI Business Center (podtytuł: „AI-Powered Business Center")
    - Jednorazowe postawienie -> 3 000 zł / 4×2h. Lokalne środowisko AI (skonfigurowane Claude Cowork/Code, podpięte pod Twoją stronę i GitHub) do prowadzenia i rozwoju firmy; uczysz się z nim pracować.
-3. Stała współpraca („co dalej")
+4. Szkolenie HeartPress (B2B — dla twórców stron www, zwłaszcza programistów WordPress; osobna publiczność)
+   - 3 spotkania warsztatowe online: model HeartPress — budowa stron z AI i obsługa zmian klienta przez Asystenta „Webmaster AI" sprzedawana jako abonament. Pierwsza edycja od 21.07.2026; cena promocyjna 555 zł (regularnie 1 155 zł). Wdrożenie „Zbuduj mi to" (kompletny ekosystem HeartPress) -> 7 977 zł. Landing: https://heartmade.pl/heartpress
+5. Stała współpraca („co dalej")
    - W budowie — nie ma jeszcze stałej oferty ani ceny; powstaje z krótkiego kwestionariusza.
 
 ## Produkty i zasoby
@@ -33,6 +37,7 @@ Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprz
 
 ## Linki
 - Strona: https://heartmade.pl · EN: https://heartmade.pl/en/
+- HeartPress (szkolenie dla twórców stron): https://heartmade.pl/heartpress
 - E-mail: pawel@heartmade.pl
 - Intercedo (dawna marka): https://www.intercedo.pl/
 - Skool: https://www.skool.com/heartmade-club-8724/about
