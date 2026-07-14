@@ -1,6 +1,8 @@
 # Heartmade — Paweł Jurewicz
 > Jednoosobowe studio · web developer (vibe-coding) · łączę technologię z prawdziwą pracą z człowiekiem. Motto: „Prosto i z sercem".
 
+Last updated: 2026-07-14 · Kanon (EN): https://heartmade.pl/llms.txt · Strona: https://heartmade.pl
+
 ## O mnie
 Paweł Jurewicz prowadzi Heartmade — jednoosobowe studio. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Współpraca jest 1:1; strona lub aplikacja to artefakt, nie produkt. Pracuję równie dobrze po polsku i po angielsku. Zdalnie, z Warszawy.
 
@@ -35,11 +37,35 @@ Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprz
 - Heartmade Studio -> https://github.com/heartmade-studio/ — aplikacje i startery tworzone w vibe-codingu
 - Heartmade Club -> społeczność na Skool (ścieżki darmowe i płatne)
 
+## Częste pytania (FAQ)
+P: Czym jest Heartmade?
+O: Jednoosobowe studio Pawła Jurewicza. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Strona/aplikacja to artefakt współpracy 1:1, nie produkt.
+
+P: Kim jest Paweł Jurewicz?
+O: Założyciel Heartmade — product manager (20+ lat) i vibe-coder, który łączy biegłość technologiczną z prawdziwą pracą z człowiekiem (uważność na ciało, oddech, układ nerwowy). Osobno: profesjonalny masażysta tajski / bodyworker pod odrębną marką osobistą (paweljurewicz.com).
+
+P: Czym jest vibe-coding?
+O: Tworzenie wspierane AI — budowanie i wdrażanie produktów cyfrowych z AI w pętli: strategia, projekt i kod produkcyjny powstają w jednym przepływie.
+
+P: Czym jest HeartPress / Asystent „Webmaster AI"?
+O: HeartPress to model nowoczesnego, konwersacyjnego CMS-a (nawiązanie do WordPressa). Klient edytuje swoją stronę — teksty, zdjęcia, nowe podstrony, landing page — pisząc zwykłym językiem na Telegramie lub WhatsAppie do swojego Asystenta „Webmaster AI". Nic nie publikuje się bez zgody klienta; każda zmiana jest odwracalna. 129 zł/mies., bez opłaty startowej.
+
+P: Ile kosztuje strona?
+O: Simple Website 1 000 zł, Extended Website 3 000 zł, Simple Store od 4 500 zł. Do tego: AI Business Center 3 000 zł (jednorazowo) i Asystent „Webmaster AI" 129 zł/mies. Ceny są stałe i jawne, bez negocjacji.
+
+P: Czy Heartmade robi marketing?
+O: Nie. Buduję punkt konwersji (strona, płatności, rezerwacje) — miejsce, do którego marketingowiec dopiero prowadzi ruch. Bez reklam, ruchu, lead generation i „pracy na wynik sprzedażowy".
+
 ## Linki
 - Strona: https://heartmade.pl · EN: https://heartmade.pl/en/
 - HeartPress (szkolenie dla twórców stron): https://heartmade.pl/heartpress
 - E-mail: pawel@heartmade.pl
-- Intercedo (dawna marka): https://www.intercedo.pl/
+- LinkedIn: https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/
+- YouTube: https://www.youtube.com/@heartmade-pl
+- Instagram: https://www.instagram.com/pawel.jurewicz.heartmade
+- Facebook: https://www.facebook.com/heartmade.pawel.jurewicz/
 - Skool: https://www.skool.com/heartmade-club-8724/about
 - GitHub (studio): https://github.com/heartmade-studio/
+- GitHub (założyciel): https://github.com/pawel-jurewicz-heartmade
 - Strona osobista: https://paweljurewicz.com/
+- Intercedo (dawna marka): https://www.intercedo.pl/

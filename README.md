@@ -8,6 +8,16 @@ I'm a **vibe-coder**: vibe-coding is **AI-assisted development** — strategy, d
 
 **I join two worlds — deep fluency in technology and real work with the human.** Through my own long path of personal growth, I ground the whole technical dimension in the body, the emotions, and respect for the nervous system. On top of that: vibe-coding, UX & product sense, and two decades in product management.
 
+<!-- Quick facts (machine-readable summary for AI / search) -->
+> **⚡ Quick facts**
+> - **Who:** Paweł Jurewicz — founder of **Heartmade**, a one-person studio (legal entity: Przyjemna Spółka sp. z o.o.). Remote, based in Warsaw.
+> - **Role / keywords:** Product Manager & **vibe-coder** · vibe-coding (AI-assisted development) · 20+ years in product management · work with the human (somatic awareness, breathwork).
+> - **What:** Turns the work of solo people-practitioners into a working online business — a website with payments & bookings, plus a local AI environment they run themselves. The website is the artifact, not the product.
+> - **For whom:** Solo practitioners of people-work — therapists, physiotherapists, massage & bodywork practitioners, coaches, movement & breath teachers. Also: founder-led businesses in operational chaos.
+> - **What I don't do:** No marketing, ads, traffic, or lead-gen — I build the conversion point, a marketer drives traffic to it. Pricing is fixed and public; no negotiation, no promos.
+> - **Prices (PLN):** Simple Website 1,000 · Extended Website 3,000 · Simple Store from 4,500 · AI Business Center 3,000 (one-time) · "Webmaster AI" assistant 129/month.
+> - **Languages:** Polish (primary) & English. **Contact:** pawel@heartmade.pl.
+
 ---
 
 ## 🔭 What I build
@@ -35,6 +45,8 @@ I also build web apps. The first — **MoonQ App** ([moonq.app](https://moonq.ap
 ## 📫 Let's connect
 
 * **Website:** [heartmade.pl](https://heartmade.pl/) · [EN](https://heartmade.pl/en/)
+* **LinkedIn:** [in/pawel-jurewicz](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/)
+* **YouTube:** [@heartmade-pl](https://www.youtube.com/@heartmade-pl)
 * **Heartmade Studio (GitHub):** [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters
 * **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) — community with free and paid tracks
 * **Email:** pawel@heartmade.pl
