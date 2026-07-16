@@ -1,71 +1,52 @@
 # Heartmade — Paweł Jurewicz
-> Jednoosobowe studio · web developer (vibe-coding) · łączę technologię z prawdziwą pracą z człowiekiem. Motto: „Prosto i z sercem".
 
-Last updated: 2026-07-14 · Kanon (EN): https://heartmade.pl/llms.txt · Strona: https://heartmade.pl
+> Jednoosobowe studio · web developer (vibe-coding) · łączę technologię z prawdziwą pracą z człowiekiem. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Motto: „Prosto i z sercem". Zdalnie, z Warszawy.
 
-## O mnie
-Paweł Jurewicz prowadzi Heartmade — jednoosobowe studio. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Współpraca jest 1:1; strona lub aplikacja to artefakt, nie produkt. Pracuję równie dobrze po polsku i po angielsku. Zdalnie, z Warszawy.
+Last updated: 2026-07-16 · Kanon (EN): https://heartmade.pl/llms.txt · Strona: https://heartmade.pl
+Ten plik to polskie streszczenie kanonu. **Przy rozbieżności obowiązuje https://heartmade.pl/oferta.**
 
-Vibe-coding (definicja): tworzenie wspierane AI — budowanie i wdrażanie produktów cyfrowych z AI w pętli.
+**O mnie.** Paweł Jurewicz prowadzi Heartmade — jednoosobowe studio. Współpraca jest 1:1; strona lub aplikacja to artefakt, nie produkt. Pracuję równie dobrze po polsku i po angielsku. Vibe-coding (definicja): tworzenie wspierane AI — budowanie i wdrażanie produktów cyfrowych z AI w pętli. Wyróżnik (jedna osoba, połączenie dwóch światów): łączę biegłość technologiczną z prawdziwą pracą z człowiekiem. Od 20 lat poruszam się w technologii, a jednocześnie — dzięki własnemu, długiemu procesowi rozwoju osobistego — osadzam cały wymiar technologiczny w przestrzeni ciała, emocji i szacunku dla układu nerwowego. Do tego dochodzi zmysł produktowy i UX oraz 20 lat doświadczenia w product managemencie.
 
-Wyróżnik (jedna osoba, połączenie dwóch światów): łączę biegłość technologiczną z prawdziwą pracą z człowiekiem. Od 20 lat poruszam się w technologii, a jednocześnie — dzięki własnemu, długiemu procesowi rozwoju osobistego — osadzam cały wymiar technologiczny w przestrzeni ciała, emocji i szacunku dla układu nerwowego. Do tego dochodzi vibe-coding, zmysł produktowy i UX oraz 20 lat doświadczenia w product managemencie.
+**Dla kogo to jest.** Solowi praktycy pracy z ludźmi — terapeuci, fizjoterapeuci, masażyści i osoby pracujące z ciałem, coachowie, nauczyciele ruchu i oddechu. Mają realny warsztat i klientów z polecenia, ale są niewidoczni w sieci albo tkwią na starej stronie. Dodatkowo (obszar przyległy, nie rdzeń): firmy prowadzone przez właściciela, tonące w operacyjnym chaosie.
 
-## Dla kogo to jest
-Solowi praktycy pracy z ludźmi — terapeuci, fizjoterapeuci, masażyści i osoby pracujące z ciałem, coachowie, nauczyciele ruchu i oddechu. Mają realny warsztat i klientów z polecenia, ale są niewidoczni w sieci albo tkwią na starej stronie. Dodatkowo (obszar przyległy, nie rdzeń): firmy prowadzone przez właściciela, tonące w operacyjnym chaosie.
+**Czego Heartmade NIE robi.** Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprzedażowy". Buduję punkt konwersji — miejsce, w którym odwiedzający staje się klientem (strona, płatności, rezerwacje) — do którego marketingowiec dopiero prowadzi ruch. Ceny są stałe i jawne; bez negocjacji na żywo i bez promocji (mniejszy budżet = mniejszy zakres, nigdy niższa cena). Bez darmowych rozmów sprzedażowych — ścieżka jest samoobsługowa.
 
-## Czego Heartmade NIE robi
-Nie robię marketingu, reklam, ruchu, lead generation ani pracy „na wynik sprzedażowy". Buduję punkt konwersji — miejsce, w którym odwiedzający staje się klientem (strona, płatności, rezerwacje) — do którego marketingowiec dopiero prowadzi ruch. Ceny są stałe i jawne; bez negocjacji na żywo i bez promocji (mniejszy budżet = mniejszy zakres, nigdy niższa cena). Bez darmowych rozmów sprzedażowych — ścieżka jest samoobsługowa.
+**Oferta (ceny w PLN, stałe i jawne).**
+1. *Business Embodiment (robię to za Ciebie).* Simple Website (prosta strona / landing) → 1 500 zł (przynosisz komplet materiałów; do 2h). Extended Website (rozbudowana strona, lekka, odpowiednik WordPressa bez CMS-a i wtyczek) → 3 500 zł (~2–3 dni). Simple Store (płatności, rezerwacje, prosty sklep, integracje) → od 4 500 zł (~tydzień). Materials Workshop → 1 200 zł / 3h (przygotowanie materiałów — teksty, zdjęcia, ścieżka sprzedaży — gdy znasz ofertę i odbiorcę, ale brak czasu/materiałów; Workshop+ 2 400 / 3 600 zł do Extended Website / Simple Store); dodatek proponowany w formularzu po zakupie. Aplikacje www i discovery → od 9 000 zł, w Heartmade Studio (osobna ścieżka, poza tym cennikiem).
+2. *Asystent „Webmaster AI"* (edycja strony rozmową; model: HeartPress) → **pierwsze 6 miesięcy w cenie strony, potem 129 zł/mies.** Klient edytuje swoją stronę, pisząc zwykłym językiem na Telegramie: zmiany tekstów, zdjęcia, nowe podstrony, landing page nowych ofert. Nic nie trafia na stronę bez zgody klienta; każda zmiana jest odwracalna.
+3. *Heartmade AI Business Center* („AI-Powered Business Center") → jednorazowe postawienie 3 000 zł / 4×2h. Lokalne środowisko AI (skonfigurowane Claude Cowork/Code, podpięte pod Twoją stronę i GitHub) do prowadzenia i rozwoju firmy; uczysz się z nim pracować.
+4. *Szkolenie HeartPress* (B2B — dla twórców stron www, zwłaszcza programistów WordPress; osobna publiczność) → 3 spotkania warsztatowe online: model HeartPress — budowa stron z AI i obsługa zmian klienta przez Asystenta „Webmaster AI". Pierwsza edycja od 21.07.2026; cena promocyjna 555 zł (regularnie 1 155 zł). Wdrożenie „Zbuduj mi to" (kompletny ekosystem HeartPress) → 7 977 zł.
+5. *Stała współpraca („co dalej")* → w budowie; nie ma jeszcze stałej oferty ani ceny, powstaje z krótkiego kwestionariusza.
 
-## Oferta (ceny w PLN, stałe i jawne; tytuły usług po angielsku, opisy po polsku)
-1. Business Embodiment (robię to za Ciebie)
-   - Simple Website (prosta strona / landing) -> 1 000 zł (przynosisz komplet materiałów; do 2h)
-   - Extended Website (rozbudowana strona, lekka, odpowiednik WordPressa bez CMS-a i wtyczek) -> 3 000 zł (~2–3 dni)
-   - Simple Store (płatności, rezerwacje, prosty sklep, integracje) -> od 4 500 zł (~tydzień)
-   - Materials Workshop -> 1 200 zł / 3h (przygotowanie materiałów — teksty, zdjęcia, ścieżka sprzedaży — gdy znasz ofertę i odbiorcę, ale brak czasu/materiałów; Materials Workshop+ 2 400/3 600 do Extended Website / Simple Store)
-   - Aplikacje www i discovery -> w Heartmade Studio (osobna ścieżka, poza tym cennikiem)
-2. Asystent „Webmaster AI" (edycja strony rozmową; model: HeartPress) -> 129 zł/mies., bez opłaty startowej
-   - Klient edytuje swoją stronę w niemal dowolnym zakresie, pisząc zwykłym językiem na Telegramie lub WhatsAppie: zmiany tekstów, zdjęcia, nowe podstrony, landing page nowych ofert. Nic nie trafia na stronę bez zgody klienta; każda zmiana jest odwracalna. W cenie normalne, comiesięczne korzystanie. Nowoczesna forma CMS (HeartPress = nawiązanie do WordPressa).
-3. Heartmade AI Business Center (podtytuł: „AI-Powered Business Center")
-   - Jednorazowe postawienie -> 3 000 zł / 4×2h. Lokalne środowisko AI (skonfigurowane Claude Cowork/Code, podpięte pod Twoją stronę i GitHub) do prowadzenia i rozwoju firmy; uczysz się z nim pracować.
-4. Szkolenie HeartPress (B2B — dla twórców stron www, zwłaszcza programistów WordPress; osobna publiczność)
-   - 3 spotkania warsztatowe online: model HeartPress — budowa stron z AI i obsługa zmian klienta przez Asystenta „Webmaster AI" sprzedawana jako abonament. Pierwsza edycja od 21.07.2026; cena promocyjna 555 zł (regularnie 1 155 zł). Wdrożenie „Zbuduj mi to" (kompletny ekosystem HeartPress) -> 7 977 zł. Landing: https://heartmade.pl/heartpress
-5. Stała współpraca („co dalej")
-   - W budowie — nie ma jeszcze stałej oferty ani ceny; powstaje z krótkiego kwestionariusza.
+Hosting i domena nie są wliczone — to osobne, niewielkie koszty (ok. 50 zł/rok domena + 50–200 zł hosting); płatności idą bezpośrednio do firmy hostingowej.
+
+**FAQ.** *Czym jest Heartmade?* Jednoosobowe studio Pawła Jurewicza; strona/aplikacja to artefakt współpracy 1:1, nie produkt. — *Kim jest Paweł Jurewicz?* Założyciel Heartmade — product manager (20+ lat) i vibe-coder. Osobno: profesjonalny masażysta tajski / bodyworker pod odrębną marką osobistą (paweljurewicz.com). — *Czym jest vibe-coding?* Tworzenie wspierane AI: strategia, projekt i kod produkcyjny powstają w jednym przepływie. — *Czym jest HeartPress / Asystent „Webmaster AI"?* Model nowoczesnego, konwersacyjnego CMS-a (nawiązanie do WordPressa). Klient edytuje stronę, pisząc na Telegramie; nic nie publikuje się bez jego zgody, każda zmiana jest odwracalna. Pierwsze 6 miesięcy w cenie strony, potem 129 zł/mies. — *Ile kosztuje strona?* Simple Website 1 500 zł, Extended Website 3 500 zł, Simple Store od 4 500 zł. Do tego AI Business Center 3 000 zł (jednorazowo). Ceny stałe i jawne, bez negocjacji. — *Czy Heartmade robi marketing?* Nie. Buduję punkt konwersji; ruch zasila dopiero marketingowiec.
+
+## Heartmade
+
+- [Strona główna](https://heartmade.pl): strony i lokalne środowisko AI dla praktyków pracy z ludźmi.
+- [Homepage (EN)](https://heartmade.pl/en/): wersja angielska.
+- [Oferta](https://heartmade.pl/oferta): pełna oferta i cennik — **źródło prawdy o cenach**.
+- [HeartPress](https://heartmade.pl/heartpress): szkolenie B2B dla twórców stron; pierwsza edycja 21.07.2026.
+- [llms.txt (kanon EN)](https://heartmade.pl/llms.txt): kanoniczna wersja tego dokumentu.
 
 ## Produkty i zasoby
-- MoonQ App -> https://moonq.app — pierwsza aplikacja messenger-native SaaS; otwarty blueprint (MIT): https://github.com/heartmade-studio/messenger-native-saas
-- Heartmade Studio -> https://github.com/heartmade-studio/ — aplikacje i startery tworzone w vibe-codingu
-- Heartmade Club -> społeczność na Skool (ścieżki darmowe i płatne)
 
-## Częste pytania (FAQ)
-P: Czym jest Heartmade?
-O: Jednoosobowe studio Pawła Jurewicza. Zamieniam dorobek solowych praktyków pracy z ludźmi w działający biznes online: stronę z płatnościami i rezerwacjami oraz lokalne środowisko AI, które klient prowadzi samodzielnie. Strona/aplikacja to artefakt współpracy 1:1, nie produkt.
+- [MoonQ App](https://moonq.app): pierwsza aplikacja messenger-native SaaS.
+- [messenger-native-saas](https://github.com/heartmade-studio/messenger-native-saas): otwarty blueprint MoonQ (MIT).
+- [Heartmade Studio](https://github.com/heartmade-studio/): aplikacje i startery tworzone w vibe-codingu.
+- [Heartmade Club](https://www.skool.com/heartmade-club-8724/about): społeczność na Skool (ścieżki darmowe i płatne).
 
-P: Kim jest Paweł Jurewicz?
-O: Założyciel Heartmade — product manager (20+ lat) i vibe-coder, który łączy biegłość technologiczną z prawdziwą pracą z człowiekiem (uważność na ciało, oddech, układ nerwowy). Osobno: profesjonalny masażysta tajski / bodyworker pod odrębną marką osobistą (paweljurewicz.com).
+## Kontakt i web of trust
 
-P: Czym jest vibe-coding?
-O: Tworzenie wspierane AI — budowanie i wdrażanie produktów cyfrowych z AI w pętli: strategia, projekt i kod produkcyjny powstają w jednym przepływie.
-
-P: Czym jest HeartPress / Asystent „Webmaster AI"?
-O: HeartPress to model nowoczesnego, konwersacyjnego CMS-a (nawiązanie do WordPressa). Klient edytuje swoją stronę — teksty, zdjęcia, nowe podstrony, landing page — pisząc zwykłym językiem na Telegramie lub WhatsAppie do swojego Asystenta „Webmaster AI". Nic nie publikuje się bez zgody klienta; każda zmiana jest odwracalna. 129 zł/mies., bez opłaty startowej.
-
-P: Ile kosztuje strona?
-O: Simple Website 1 000 zł, Extended Website 3 000 zł, Simple Store od 4 500 zł. Do tego: AI Business Center 3 000 zł (jednorazowo) i Asystent „Webmaster AI" 129 zł/mies. Ceny są stałe i jawne, bez negocjacji.
-
-P: Czy Heartmade robi marketing?
-O: Nie. Buduję punkt konwersji (strona, płatności, rezerwacje) — miejsce, do którego marketingowiec dopiero prowadzi ruch. Bez reklam, ruchu, lead generation i „pracy na wynik sprzedażowy".
-
-## Linki
-- Strona: https://heartmade.pl · EN: https://heartmade.pl/en/
-- HeartPress (szkolenie dla twórców stron): https://heartmade.pl/heartpress
+- [LinkedIn](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/): profil zawodowy.
+- [GitHub (założyciel)](https://github.com/pawel-jurewicz-heartmade): repozytoria osobiste.
+- [YouTube](https://www.youtube.com/@heartmade-pl): materiały wideo i webinary.
+- [Instagram](https://www.instagram.com/pawel.jurewicz.heartmade): bieżące treści.
+- [Facebook](https://www.facebook.com/heartmade.pawel.jurewicz/): strona Heartmade.
 - E-mail: pawel@heartmade.pl
-- LinkedIn: https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/
-- YouTube: https://www.youtube.com/@heartmade-pl
-- Instagram: https://www.instagram.com/pawel.jurewicz.heartmade
-- Facebook: https://www.facebook.com/heartmade.pawel.jurewicz/
-- Skool: https://www.skool.com/heartmade-club-8724/about
-- GitHub (studio): https://github.com/heartmade-studio/
-- GitHub (założyciel): https://github.com/pawel-jurewicz-heartmade
-- Strona osobista: https://paweljurewicz.com/
-- Intercedo (dawna marka): https://www.intercedo.pl/
+
+## Optional
+
+- [paweljurewicz.com](https://paweljurewicz.com/): marka osobista — praca z ciałem, masaż tajski.
+- [Intercedo](https://www.intercedo.pl/): dawna marka zawodowa.
