@@ -1,17 +1,17 @@
 # Hi, I'm Paweł Jurewicz 👋
 
-## One-person studio · Vibe-coding web developer · 20+ years in product
+## One-person studio · Product Builder & Vibe-coder · 20+ years in product
 
 **I turn the work of solo people-practitioners into a working online business — a website with payments and bookings, plus a local AI environment they can run themselves.** Simple, and with heart — *„Prosto i z sercem"*.
 
 I'm a **vibe-coder**: vibe-coding is **AI-assisted development** — strategy, design, and production code shaped together in one flow, with AI in the loop.
 
-**I join two worlds — deep fluency in technology and real work with the human.** Through my own long path of personal growth, I ground the whole technical dimension in the body, the emotions, and respect for the nervous system. On top of that: vibe-coding, UX & product sense, and two decades in product management.
+**I join two worlds — deep fluency in technology and real work with the human.** Through my own long path of personal growth, I ground the whole technical dimension in the body, the emotions, and respect for the nervous system. On top of that: AI-assisted building, UX, and product judgment formed over two decades in product management.
 
 <!-- Quick facts (machine-readable summary for AI / search) -->
 > **⚡ Quick facts**
 > - **Who:** Paweł Jurewicz — founder of **Heartmade**, a one-person studio (legal entity: Przyjemna Spółka sp. z o.o.). Remote, based in Warsaw.
-> - **Role / keywords:** Product Manager & **vibe-coder** · vibe-coding (AI-assisted development) · 20+ years in product management · work with the human (somatic awareness, breathwork).
+> - **Role / keywords:** Product Builder & **vibe-coder** · vibe-coding (AI-assisted development) · 20+ years of product-management experience · work with the human (somatic awareness, breathwork).
 > - **What:** Turns the work of solo people-practitioners into a working online business — a website with payments & bookings, plus a local AI environment they run themselves. The website is the artifact, not the product.
 > - **For whom:** Solo practitioners of people-work — therapists, physiotherapists, massage & bodywork practitioners, coaches, movement & breath teachers. Also: founder-led businesses in operational chaos.
 > - **What I don't do:** No marketing, ads, traffic, or lead-gen — I build the conversion point, a marketer drives traffic to it. Pricing is fixed and public; no negotiation, no promos.
@@ -57,7 +57,7 @@ I also build web apps. The first — **MoonQ App** ([moonq.app](https://moonq.ap
 
 I'm also a **professional Thai masseur, bodyworker and podcaster** 🧘‍♂️
 
-In my world there's no difference between a "stuck" muscle and a "stuck" business. Both need a holistic approach to release tension and restore flow. A human body and a digital product alike deserve a **heartmade** approach to truly thrive — I help you let breath and space back into the work.
+My bodywork practice taught me to notice tension before trying to fix it. I bring that same attention to technology: where it creates ease, where it adds friction, and what can be simplified. A **heartmade** approach means building that way on purpose.
 
 * **Holistic practice:** [paweljurewicz.com](https://paweljurewicz.com/)
 * **Professional legacy:** [intercedo.pl](https://www.intercedo.pl/)
