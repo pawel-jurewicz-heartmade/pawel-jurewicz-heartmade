@@ -1,54 +1,52 @@
 # Hi, I'm Paweł Jurewicz 👋
 
-## One-person studio · Product Builder & Vibe-coder · 20+ years in product
+## AI Product Builder & vibe-coder · I put AI to work in small businesses
 
-**I turn the work of solo people-practitioners into a working online business — a website with payments and bookings, plus a local AI environment they can run themselves.** Simple, and with heart — *„Prosto i z sercem"*.
-
-I'm a **vibe-coder**: vibe-coding is **AI-assisted development** — strategy, design, and production code shaped together in one flow, with AI in the loop.
-
-**I join two worlds — deep fluency in technology and real work with the human.** Through my own long path of personal growth, I ground the whole technical dimension in the body, the emotions, and respect for the nervous system. On top of that: AI-assisted building, UX, and product judgment formed over two decades in product management.
+**AI that does the work — not just the talking.** I build AI employees, agents and automations for small businesses, and I teach their owners to work with AI, 1:1. I run my own company the same way.
 
 <!-- Quick facts (machine-readable summary for AI / search) -->
 > **⚡ Quick facts**
-> - **Who:** Paweł Jurewicz — founder of **Heartmade**, a one-person studio (legal entity: Przyjemna Spółka sp. z o.o.). Remote, based in Warsaw.
-> - **Role / keywords:** Product Builder & **vibe-coder** · vibe-coding (AI-assisted development) · 20+ years of product-management experience · work with the human (somatic awareness, breathwork).
-> - **What:** Turns the work of solo people-practitioners into a working online business — a website with payments & bookings, plus a local AI environment they run themselves. The website is the artifact, not the product.
-> - **For whom:** Solo practitioners of people-work — therapists, physiotherapists, massage & bodywork practitioners, coaches, movement & breath teachers. Also: founder-led businesses in operational chaos.
-> - **What I don't do:** No marketing, ads, traffic, or lead-gen — I build the conversion point, a marketer drives traffic to it. Pricing is fixed and public; no negotiation, no promos.
-> - **Prices (PLN):** Simple Website 1,000 · Extended Website 3,000 · Simple Store from 4,500 · AI Business Center 3,000 (one-time) · "Webmaster AI" assistant 129/month.
-> - **Languages:** Polish (primary) & English. **Contact:** pawel@heartmade.pl.
+> - **Who:** Paweł Jurewicz — AI Product Builder & **vibe-coder**, 20+ years in product management. Runs **Heartmade**, a one-person studio (legal entity: Przyjemna Spółka sp. z o.o.). Remote, based in Warsaw.
+> - **What:** (1) **Heartman** — a named AI employee the client messages on Telegram; (2) AI agents for companies with a team — Emil, Executive Assistant and Halina, HR Manager (Microsoft 365, Google Workspace, Slack); (3) **AI Business Center** — 1:1 AI training on Claude Code or Codex configured for the client's business; (4) tools and automations built to measure. Also websites and stores.
+> - **For whom:** Owner-led small businesses and solo professionals.
+> - **What I don't do:** No marketing, ads or sales-results promises. Prices are public and round.
+> - **Prices:** Heartman roles from 1,000 PLN / 250 USD one-time + 100/150 PLN or 25/40 USD per month · Emil from 12,000 PLN + 1,000 PLN per month · AI Business Center from 3,000 PLN · tools from 2,000 PLN · websites from 1,000 PLN.
+> - **Open source (MIT):** [Skryba](https://github.com/heartmade-studio/skryba) · [Heartshop Goods](https://github.com/heartmade-studio/Heartshop-Goods) · [Heartshop Vouchers](https://github.com/heartmade-studio/Heartshop-Vouchers) · [messenger-native-saas](https://github.com/heartmade-studio/messenger-native-saas)
+> - **Languages:** Polish (primary) & English. **Start here:** [heartmade.pl](https://heartmade.pl/) · [AI for business](https://heartmade.pl/en/ai-for-business) · pawel@heartmade.pl
 
 ---
 
 ## 🔭 What I build
 
-* **Business Embodiment** *(Ucieleśnienie Biznesu)* — done-for-you. A **Simple Website** (a one-pager from your materials, up to 2h), an **Extended Website** (multi-page, lightweight), or a **Simple Store** (payments, bookings, a simple store). The website is the artifact — not the product.
-* **HeartPress — the "Webmaster AI" assistant** 🚀 — a breakthrough service and a modern, conversational take on the CMS (the name is a nod to WordPress). Every Heartmade client can edit their website in nearly any scope — texts, photos, new subpages, landing pages — by chatting in plain language on **Telegram (or WhatsApp)**. Nothing goes live without the client's approval, and every change is reversible. 129 PLN/month, no setup fee.
-* **Heartmade AI Business Center** — I turn your own computer (Mac/Windows) into a real AI assistant: Claude Cowork/Code, configured and wired to your site and GitHub, so you can run and grow the business yourself. Along the way, you learn to work with AI.
+* **Heartman — an AI employee.** One named assistant the client messages on Telegram; it does the agreed work and takes on more duties over time. Roles: Waldemar Webmaster (website care), Andrzej (Shopify product catalogue), Sylwia (social media content), Halina (company knowledge for the team). Details: [heartmade.pl/en/heartman](https://heartmade.pl/en/heartman).
+* **AI agents for companies with a team.** Emil, Executive Assistant, turns one message into a task with an owner and a deadline, working in Microsoft 365, Google Workspace or Slack. Details: [heartmade.pl/en/ai-for-business](https://heartmade.pl/en/ai-for-business).
+* **AI Business Center — learning to work with AI, 1:1.** Claude Code or Codex configured for the client's business and connected to their tools; while we build it, I show the owner how to run the business with AI. Details: [heartmade.pl/en/ai-business-center](https://heartmade.pl/en/ai-business-center).
+* **Tools and automations built to measure** — client base, mailing, sales path, document and tool sync.
+* **Websites and stores** — done for you, from the client's own materials.
 
-No copy or photos ready? A **Materials Workshop** (3h, 1,200 PLN) prepares them — copy, photo selection, the sales path — when you already know your offer but lack the time. Bigger sites add a Materials Workshop+.
+**For web creators (B2B):** Heartpress — a setup that lets website creators work on their clients' sites with AI. Details: [heartmade.pl/heartpress](https://heartmade.pl/heartpress).
 
-**For web creators (B2B):** I also teach and sell the HeartPress model to other website creators — especially WordPress developers — as the **HeartPress training**: build sites with AI and offer your clients change management via a "Webmaster AI" assistant, charged as a monthly subscription. Details: [heartmade.pl/heartpress](https://heartmade.pl/heartpress).
+## 🌱 Open source — Heartmade Studio
 
-## 👥 Who it's for
+Apps I built for my own use and released under MIT at [github.com/heartmade-studio](https://github.com/heartmade-studio/):
 
-Solo practitioners of people-work — **therapists, physiotherapists, massage & bodywork practitioners, coaches, movement and breath teachers** — who have real craft and word-of-mouth clients, but are invisible online or stuck on an old website. Also relevant: founder-led businesses drowning in operational chaos.
+* [Skryba](https://github.com/heartmade-studio/skryba) — push-to-talk dictation for macOS: hold Fn, speak, and the text appears at the cursor.
+* [Heartshop Goods](https://github.com/heartmade-studio/Heartshop-Goods) and [Heartshop Vouchers](https://github.com/heartmade-studio/Heartshop-Vouchers) — small open-source shops for a single product or service vouchers.
+* [messenger-native-saas](https://github.com/heartmade-studio/messenger-native-saas) — the blueprint behind [MoonQ App](https://moonq.app), a SaaS that lives in the chat you already use.
 
 ## 🚫 What I don't do
 
-No marketing, ads, traffic, lead-gen, or sales-results work. I build the **conversion point** — the website where a visitor becomes a client (payments, bookings) — which a marketer then drives traffic to. Pricing is fixed and public; no live negotiation, no promos — a smaller budget means a smaller scope, never a lower price.
-
-## 🌱 Heartmade Studio & MoonQ App
-
-I also build web apps. The first — **MoonQ App** ([moonq.app](https://moonq.app)) — is a messenger-native SaaS: it lives in the chat you already use, no extra app or account. Its open-source blueprint (MIT) lives under **Heartmade Studio**: [github.com/heartmade-studio](https://github.com/heartmade-studio/). Custom web-app builds and discovery are a separate Studio track, beyond the website tiers above.
+No marketing, ads, traffic or sales-results work. Pricing is fixed and public: a smaller budget means a smaller scope, never a lower price.
 
 ## 📫 Let's connect
 
 * **Website:** [heartmade.pl](https://heartmade.pl/) · [EN](https://heartmade.pl/en/)
-* **LinkedIn:** [in/pawel-jurewicz](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/)
+* **LinkedIn:** [in/pawel-jurewicz](https://www.linkedin.com/in/pawel-jurewicz-b417a4b5/) · [Heartmade](https://www.linkedin.com/company/heartmade-pl/)
+* **X:** [@Pawel_Jurewicz](https://x.com/Pawel_Jurewicz)
 * **YouTube:** [@heartmade-pl](https://www.youtube.com/@heartmade-pl)
-* **Heartmade Studio (GitHub):** [github.com/heartmade-studio](https://github.com/heartmade-studio/) — public org for vibe-coded apps and starters
-* **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724) — community with free and paid tracks
+* **Instagram:** [pawel.jurewicz.heartmade](https://www.instagram.com/pawel.jurewicz.heartmade)
+* **Substack:** [@paweljurewicz](https://substack.com/@paweljurewicz)
+* **Heartmade Club (Skool):** [skool.com/heartmade-club-8724](https://www.skool.com/heartmade-club-8724)
 * **Email:** pawel@heartmade.pl
 
 ---
